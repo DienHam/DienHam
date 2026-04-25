@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DienHam/DienHam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- PHẦN ẢNH BANNER (Bạn thay đường dẫn ảnh của bạn vào đây) -->
+  <img src="https://path-to-your-image.com/banner.png" width="100%" alt="Banner" />
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- PHẦN CHÀO HỎI -->
+  <h1>Hi 👋, I'm DienHam</h1>
+  
+  <p><b>A passionate Machine Learning Learner / NLP Researcher</b></p>
+
+  <!-- PHẦN BADGE (Lượt xem profile) -->
+  <img src="https://komarev.com/ghpvc/?username=DienHam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+<br />
+
+### Giới thiệu bản thân
+Tôi có niềm đam mê mãnh liệt với xử lý ngôn ngữ tự nhiên (NLP), mô hình ngôn ngữ lớn (LLM)... [Chỉnh sửa nội dung này theo ý bạn].
+
+### Kết nối với tôi:
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+</a>
+
+<br />
+
+### Thống kê GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DienHam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
