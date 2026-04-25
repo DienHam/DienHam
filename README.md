@@ -8,7 +8,7 @@
   <!-- PHẦN CHÀO HỎI -->
   <h1>Hi 👋, I'm DienHam (Le Van Dong)</h1>
   
-  <p><b>A passionate NLP Researcher and AI Engineer</b></p>
+  <p><b>A passionate NLP Researcher and AI Engineer from Vietnam</b></p>
 
   <!-- PHẦN BADGE (Lượt xem profile) -->
   <img src="https://komarev.com/ghpvc/?username=DienHam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,7 +18,7 @@
 <br />
 
 ### Personal Introduction
-I harbor a profound passion for natural language processing (NLP) and large language models (LLMs), driven by a fascination with how machines can internalize and generate human language with remarkable nuance. Beyond their applications, I am particularly intrigued by the underlying architectures - transformers, contextual embeddings, and emergent behaviors - that continually push the frontiers of artificial intelligence. I aspire not only to deepen my technical expertise in this domain but also to contribute to the responsible and impactful evolution of AI systems.
+I harbor a profound passion for natural language processing (NLP) and large language models (LLMs), driven by a fascination with how machines internalize and generate human language with remarkable nuance. Beyond my technical interests, I am deeply engaged with anime culture, which has shaped my aesthetic sensibilities and narrative appreciation. I also enjoy exploring a wide spectrum of intellectual domains - from complex scientific ideas like The Three-Body Problem to diverse philosophical frameworks, such as "I have no mouth but I must scream" - constantly seeking to broaden my perspective and deepen my understanding of the world.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/dong-van-le">
