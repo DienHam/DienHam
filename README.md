@@ -6,7 +6,7 @@
   <br />
 
   <!-- PHẦN CHÀO HỎI -->
-  <h1>Hi 👋, I'm DienHam</h1>
+  <h1>Hi 👋, I'm DienHam (Le Van Dong)</h1>
   
   <p><b>A passionate NLP Researcher and AI Engineer</b></p>
 
