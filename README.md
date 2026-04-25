@@ -22,7 +22,7 @@ I harbor a profound passion for natural language processing (NLP) and large lang
 
 ### Connect with me:
 <a href="https://linkedin.com/in/dong-van-le">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="60" />
 </a>
 
 <br />
