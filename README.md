@@ -21,7 +21,7 @@
 Tôi có niềm đam mê mãnh liệt với xử lý ngôn ngữ tự nhiên (NLP), mô hình ngôn ngữ lớn (LLM)... [Chỉnh sửa nội dung này theo ý bạn].
 
 ### Kết nối với tôi:
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dong-van-le">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
 </a>
 
