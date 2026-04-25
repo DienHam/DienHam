@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- PHẦN ẢNH BANNER (Bạn thay đường dẫn ảnh của bạn vào đây) -->
-  <img src="https://path-to-your-image.com/banner.png" width="100%" alt="Banner" />
+  <img src="./wp2394189-anime-sky-wallpapers.jpg" width="100%" alt="Banner" />
 
   <br />
 
