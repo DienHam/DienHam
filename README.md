@@ -18,7 +18,7 @@
 <br />
 
 ### Personal Introduction
-I harbor a profound passion for natural language processing (NLP) and large language models (LLMs), driven by a fascination with how machines internalize and generate human language with remarkable nuance. Beyond my technical interests, I am deeply engaged with anime culture, which has shaped my aesthetic sensibilities and narrative appreciation. I also enjoy exploring a wide spectrum of intellectual domains - from complex scientific ideas like The Three-Body Problem to diverse philosophical frameworks, such as "I have no mouth but I must scream" - constantly seeking to broaden my perspective and deepen my understanding of the world.
+I harbor a profound passion for natural language processing (NLP) and large language models (LLMs), driven by a fascination with how machines internalize and generate human language with remarkable nuances. Beyond my technical interests, I am deeply engaged with anime culture, which has shaped my aesthetic sensibilities and narrative appreciation. I also enjoy exploring a wide spectrum of intellectual domains - from complex scientific ideas like The Three-Body Problem to diverse philosophical frameworks, such as "I have no mouth but I must scream" - constantly seeking to broaden my perspective and deepen my understanding of the world.
 
 ### Connect with me:
 <a href="https://linkedin.com/in/dong-van-le">
